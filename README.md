@@ -1,6 +1,6 @@
-Learn Git
+###Learn Git
 ======
-**在线:**[中文版](http://0532.gitbooks.io/progit/)
+**在线阅读:**[中文版](http://0532.gitbooks.io/progit/)
 
 
 This is a [GitBook](https://www.gitbook.io) version of the Scott Chacon's book: [Pro Git](https://github.com/progit/progit).
