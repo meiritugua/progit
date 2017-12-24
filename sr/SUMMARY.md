@@ -1,8 +1,0 @@
-* [Почетак](a4c7a2a5735f2254f2ebb33ec6a113e7/README.md)
-	* [О контроли верзије](a4c7a2a5735f2254f2ebb33ec6a113e7/d0dceb92629e94eab1031c8f6bc19bd8.md)
-	* [Кратка историја Гита](a4c7a2a5735f2254f2ebb33ec6a113e7/d7b8757bcd02ffc1fee103761f27e337.md)
-	* [Git Basics](a4c7a2a5735f2254f2ebb33ec6a113e7/c10442d932157401d95d0b2db11fc380.md)
-	* [Installing Git](a4c7a2a5735f2254f2ebb33ec6a113e7/2a94cf2eea7a61b021a3a948238add02.md)
-	* [First-Time Git Setup](a4c7a2a5735f2254f2ebb33ec6a113e7/65a73881ffd9f9c7fc7cbc61080c2ce2.md)
-	* [Getting Help](a4c7a2a5735f2254f2ebb33ec6a113e7/17a3e74229e0d8d6c73fe948a948f2bc.md)
-	* [Закључак](a4c7a2a5735f2254f2ebb33ec6a113e7/fbb754cfaa6a53bcbafe3ded2951e215.md)
