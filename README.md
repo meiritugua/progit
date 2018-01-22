@@ -1,5 +1,6 @@
 Learn Git
 ======
+> 本开源书 forked from [Pro Git 中文版](https://github.com/0532/progit)，作者为 [progit](https://github.com/progit)，欢迎大家 star 原作者的 [repo](https://github.com/0532/progit)，以便获得最新更新，谢谢！
 
 This is a GitBook version of the Scott Chacon's book: [Pro Git](https://github.com/progit/progit).
 
